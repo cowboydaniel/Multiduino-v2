@@ -14,7 +14,7 @@ On top of the standard Uno feature set, the Multiduino v2 adds a substantial sui
 
 **Arduino Uno compatible mode** — Select **Arduino Uno** as your board in the Arduino IDE and the Multiduino v2 works immediately with standard Arduino libraries. This is the quickest way to get started and is fully supported. Compatible libraries for all on-board peripherals are available through the Arduino Library Manager.
 
-**Multiduino core** — Outback Electronics provides a custom Arduino core specifically designed for this board. It includes tailored libraries for every on-board peripheral that expose hardware-specific functionality not possible with generic libraries. The Multiduino core is recommended for any project making full use of the board's hardware. See the [Multiduino Core repository](#) for installation instructions.
+**Multiduino core** — Outback Electronics provides a custom Arduino core specifically designed for this board. It includes tailored libraries for every on-board peripheral that expose hardware-specific functionality not possible with generic libraries. The Multiduino core is recommended for any project making full use of the board's hardware. See the [Multiduino Core repository](./core/) for installation instructions.
 
 ---
 
@@ -236,7 +236,7 @@ For the on-board peripherals, use the standard Arduino Wire and SPI libraries. C
 The Multiduino core unlocks the full capability of the board's hardware with libraries written specifically for it. Features like software SD card control, 3.3V rail switching, and board-aware peripheral management are only available through the core.
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software) if not already installed.
-2. Follow the installation instructions in the [Multiduino Core repository](#) to add the board to the IDE.
+2. Follow the installation instructions in the [Multiduino Core repository](./core/) to add the board to the IDE.
 3. Select **Tools → Board → Multiduino v2**.
 4. Connect via USB-C, select the correct port, and upload as normal.
 

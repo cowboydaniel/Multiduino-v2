@@ -21,7 +21,7 @@ On top of the standard Uno feature set, the Multiduino v2 adds a substantial sui
 ## What's On The Board
 
 ### Processor
-The ATmega328PB is an enhanced version of the ATmega328P found in the official Arduino Uno R3. It is fully compatible with existing Arduino sketches and libraries, and adds a second hardware I2C port, a second hardware SPI port, and additional I/O pins broken out on the extended header.
+The ATmega328PB is an enhanced version of the ATmega328P found in the official Arduino Uno R3. It is fully backward compatible with existing Arduino sketches and libraries. Compared to the 328P it adds additional timer/counters (providing more PWM channels), and four extra I/O pins (PE0–PE3) which are broken out on the extended header. The chip also includes a second USART, SPI, and I2C port internally, however these are not broken out on this board.
 
 ### Memory
 Beyond the processor's built-in 2KB of RAM and 1KB of EEPROM, the Multiduino v2 includes three additional memory devices:

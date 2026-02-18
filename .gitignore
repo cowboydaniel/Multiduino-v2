@@ -1,0 +1,32 @@
+# KiCad
+*.bak
+*.bak2
+*-backups/
+**/*-backups/
+*.kicad_prl
+fp-info-cache
+*.000
+*.lock
+
+# Arduino IDE / core build artifacts
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.7z

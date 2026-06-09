@@ -4643,7 +4643,8 @@
 		(tags "solder jumper open")
 		(property "Reference" "JP5"
 			(at 0 -1.8 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "62b7a4bb-d0cb-4589-b71d-4e2c205707aa")
 			(effects
 				(font
@@ -4655,6 +4656,7 @@
 		(property "Value" "SolderJumper_2_Open"
 			(at 0 1.9 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ed07ea5e-84f9-49ae-9948-1dd5b2451e71")
 			(effects
 				(font
@@ -16857,7 +16859,8 @@
 		(tags "solder jumper open")
 		(property "Reference" "JP3"
 			(at 0 -1.8 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "f54002fb-ffaf-4c99-9a4b-985b36da0a8a")
 			(effects
 				(font
@@ -16869,6 +16872,7 @@
 		(property "Value" "SolderJumper_2_Open"
 			(at 0 1.9 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4094ef76-7a03-4009-ad52-80b58d1aaa0b")
 			(effects
 				(font
@@ -17027,7 +17031,8 @@
 		(tags "solder jumper open")
 		(property "Reference" "JP4"
 			(at 0 -1.8 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "9a987580-7406-4994-ac2b-fed01cc8a725")
 			(effects
 				(font
@@ -17039,6 +17044,7 @@
 		(property "Value" "SolderJumper_2_Open"
 			(at 0 1.9 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2a408470-dbe6-437c-be6b-70afa97d7c85")
 			(effects
 				(font

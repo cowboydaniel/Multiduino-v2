@@ -262,7 +262,8 @@
 		(tags "resistor array")
 		(property "Reference" "RN5"
 			(at 0 -2.8 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "fcd19b81-2fac-4b0a-aea5-ee292ffb65d6")
 			(effects
 				(font
@@ -274,6 +275,7 @@
 		(property "Value" "R_Pack04_Split"
 			(at 0 2.8 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a02a41c6-9c02-47d9-a0a2-516f0bb2a8f6")
 			(effects
 				(font
@@ -2968,7 +2970,8 @@
 		(tags "resistor array")
 		(property "Reference" "RN6"
 			(at 0 -2.8 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "d3b2679e-9452-48d7-b3a3-9c69cf4a543e")
 			(effects
 				(font
@@ -2980,6 +2983,7 @@
 		(property "Value" "R_Pack04_Split"
 			(at 0 2.8 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c5242b76-0cdf-43b4-8fbd-8281838eb741")
 			(effects
 				(font
@@ -6338,7 +6342,8 @@
 		(tags "SOIC SO")
 		(property "Reference" "U8"
 			(at 0 -3.4 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "a4fc69a3-a6e0-4199-a935-49950a554aa3")
 			(effects
 				(font
@@ -6350,6 +6355,7 @@
 		(property "Value" "AT24CS32-SSHM"
 			(at 0 3.4 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4072f129-94a4-4674-a23c-f190e5397869")
 			(effects
 				(font
@@ -14616,7 +14622,8 @@
 		(tags "SOIC SO")
 		(property "Reference" "U7"
 			(at 0 -3.4 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "c1e3f2a2-ddb7-4c35-a039-d27d1c34141c")
 			(effects
 				(font
@@ -14628,6 +14635,7 @@
 		(property "Value" "DS3231MZ"
 			(at 0 3.4 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a0316ebd-22ef-42ca-a0e9-4cbad69382bb")
 			(effects
 				(font

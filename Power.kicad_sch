@@ -3244,7 +3244,7 @@
 			(uuid "443008ab-e75b-4d2a-b2ed-89297c4aaf69")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "C4")
 					(unit 1)
@@ -3371,7 +3371,7 @@
 			(uuid "fedb9caf-00e3-4667-87ba-5c04d68275c7")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "U5")
 					(unit 1)
@@ -3441,7 +3441,7 @@
 			(uuid "58bdaeba-66ed-4a87-8411-74f5bad684e6")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "D4")
 					(unit 1)
@@ -3528,7 +3528,7 @@
 			(uuid "c941221c-ed0c-4a99-a8ee-fee7169d1a3a")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "RN1")
 					(unit 1)
@@ -3594,7 +3594,7 @@
 			(uuid "4c623c03-7eac-4990-8ab6-bf200824fe4b")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR014")
 					(unit 1)
@@ -3661,7 +3661,7 @@
 			(uuid "e86eb37e-a865-4442-9287-6adb532a4566")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR019")
 					(unit 1)
@@ -3748,7 +3748,7 @@
 			(uuid "c941221c-ed0c-4a99-a8ee-fee7169d1a3b")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "RN1")
 					(unit 2)
@@ -3825,7 +3825,7 @@
 			(uuid "12e3b542-28f6-42cd-a85c-3ab289370764")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "U2")
 					(unit 1)
@@ -3891,7 +3891,7 @@
 			(uuid "ee2ec4e4-8313-4641-a85b-3e145dcf5ad4")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR033")
 					(unit 1)
@@ -3957,7 +3957,7 @@
 			(uuid "bd624041-fbbe-4e31-b125-917aef6ce04a")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR013")
 					(unit 1)
@@ -4026,7 +4026,7 @@
 			(uuid "9c77ad60-155b-45e6-a374-733a14be8506")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "C3")
 					(unit 1)
@@ -4113,7 +4113,7 @@
 			(uuid "5d250f6f-1ad9-46c5-992d-b11340f10afe")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "RN2")
 					(unit 1)
@@ -4183,7 +4183,7 @@
 			(uuid "5b92e324-0a5f-4c38-84f8-1a0d7eaeee70")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "C2")
 					(unit 1)
@@ -4249,7 +4249,7 @@
 			(uuid "ad612740-dc1e-4c2d-bfba-ec7d054d3794")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR07")
 					(unit 1)
@@ -4315,7 +4315,7 @@
 			(uuid "7ead4772-83b6-47ef-9a68-e6866df32c84")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR010")
 					(unit 1)
@@ -4386,7 +4386,7 @@
 			(uuid "8d0de046-9829-4b04-8a1f-d27955a57906")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "U1")
 					(unit 1)
@@ -4457,7 +4457,7 @@
 			(uuid "98436e29-3975-49b5-a5db-74e85cad6827")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "Q1")
 					(unit 1)
@@ -4523,7 +4523,7 @@
 			(uuid "412ee58e-00d1-4e2c-b628-2a4e69c10ede")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR03")
 					(unit 1)
@@ -4589,7 +4589,7 @@
 			(uuid "a9bf4a6c-e26f-4e4e-b843-83a6ad1c21b7")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR05")
 					(unit 1)
@@ -4676,7 +4676,7 @@
 			(uuid "145b901c-62c6-45f5-91c0-07941448b30a")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "RN4")
 					(unit 4)
@@ -4742,7 +4742,7 @@
 			(uuid "94e8fad1-4c12-473e-8afa-8fa471334c30")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR015")
 					(unit 1)
@@ -4810,7 +4810,7 @@
 			(uuid "aaf75f2d-3762-471f-ac59-5226c6b31e11")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "D7")
 					(unit 1)
@@ -4880,7 +4880,7 @@
 			(uuid "7561300a-249b-4b85-a3c8-4e040a3f1c62")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "C1")
 					(unit 1)
@@ -4946,7 +4946,7 @@
 			(uuid "9df93bc7-6323-425e-b643-f35f148c2eb4")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR01")
 					(unit 1)
@@ -5012,7 +5012,7 @@
 			(uuid "e30d45e6-3c7f-44de-ae1f-884231fe7311")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR012")
 					(unit 1)
@@ -5082,7 +5082,7 @@
 			(uuid "0b7f8178-e15b-4353-990f-e3503a11b747")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "C5")
 					(unit 1)
@@ -5148,7 +5148,7 @@
 			(uuid "03ce9f60-d51e-4774-9aa5-894afd960eec")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR017")
 					(unit 1)
@@ -5214,7 +5214,7 @@
 			(uuid "b7b1bdde-ce4b-4fa1-815c-abb698dc9286")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR02")
 					(unit 1)
@@ -5280,7 +5280,7 @@
 			(uuid "bf3197b8-6c3e-4243-8924-c004818aa72f")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR011")
 					(unit 1)
@@ -5346,7 +5346,7 @@
 			(uuid "ae2c65eb-a90b-4592-891b-a000a9afa15b")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR09")
 					(unit 1)
@@ -5433,7 +5433,7 @@
 			(uuid "145b901c-62c6-45f5-91c0-07941448b30b")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "RN4")
 					(unit 3)
@@ -5499,7 +5499,7 @@
 			(uuid "c6df22cc-20b8-4820-b2f6-0bbf3a2b593a")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR06")
 					(unit 1)
@@ -5565,7 +5565,7 @@
 			(uuid "57acbb58-d0d0-4c66-ae4b-4e95288aa149")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR08")
 					(unit 1)
@@ -5631,7 +5631,7 @@
 			(uuid "08103f26-7ce1-4004-944a-5e6d81a4c768")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR016")
 					(unit 1)
@@ -5697,7 +5697,7 @@
 			(uuid "bcd5afe3-39d8-4386-9b49-05d4f167bdb6")
 		)
 		(instances
-			(project "Arduino Uno SMD"
+			(project "Multi-Duino"
 				(path "/a569fb01-6252-4b3a-9dcb-3675b5ce6f3f/0f36cb7f-b539-405c-8406-ecfb05ec3d32"
 					(reference "#PWR020")
 					(unit 1)

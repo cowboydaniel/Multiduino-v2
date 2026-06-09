@@ -4819,7 +4819,7 @@
 		(tags "diode")
 		(property "Reference" "D2"
 			(at 0 -1.82 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "74883e0a-0499-425b-bbd4-914eb0af2c1a")
 			(effects
@@ -4832,6 +4832,7 @@
 		(property "Value" "CD1206-S01575"
 			(at 0 1.82 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "5dccc4f8-a440-4af0-aacb-88983a5c76e4")
 			(effects
 				(font
@@ -5916,7 +5917,7 @@
 		(tags "LED")
 		(property "Reference" "D7"
 			(at 0 -1.65 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "a38115c7-babe-4621-a483-2020c72bfbcd")
 			(effects
@@ -5929,6 +5930,7 @@
 		(property "Value" "GREEN"
 			(at 0 1.65 180)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b4ade86a-8d6c-4f5a-a461-d82e69e37287")
 			(effects
 				(font
@@ -8254,7 +8256,7 @@
 		(tags "resistor array")
 		(property "Reference" "RN4"
 			(at 0 -2.8 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "93ead2b2-8353-47de-8533-43c50b65054e")
 			(effects
@@ -8267,6 +8269,7 @@
 		(property "Value" "1k"
 			(at 0 2.8 180)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "41a5b57c-9132-4e3c-8325-516a3cfc0574")
 			(effects
 				(font
@@ -13468,7 +13471,8 @@
 		(tags "battery CR-2032 coin cell")
 		(property "Reference" "BT1"
 			(at 11 -11 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
+			(hide yes)
 			(uuid "a63d4833-15ef-4223-adfd-e84e402e6106")
 			(effects
 				(font
@@ -13480,6 +13484,7 @@
 		(property "Value" "Battery_Cell"
 			(at 10.5 11 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "013342db-42ea-45c9-af02-2a713774a5e5")
 			(effects
 				(font
@@ -17465,7 +17470,7 @@
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J3"
 			(at 1.27 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "7728d6e8-57fd-4a1c-8de1-87e3f0fad3c3")
 			(effects
@@ -17478,6 +17483,7 @@
 		(property "Value" "M20-9980345"
 			(at 1.27 7.41 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "895dd994-6b3a-432a-9c19-762f4f7f67c0")
 			(effects
 				(font
@@ -18812,7 +18818,7 @@
 		)
 	)
 	(gr_text "ON"
-		(at 174.625 95.675 0)
+		(at 177.16 91 0)
 		(layer "F.SilkS")
 		(uuid "9a2f3321-5dc4-491e-9f72-de46d135a2c1")
 		(effects

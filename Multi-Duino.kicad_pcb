@@ -1664,7 +1664,7 @@
 		(at 120.5611 82.2706)
 		(property "Reference" "S1"
 			(at 0 2 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "4f3809c9-fe8f-415a-8834-064048ce3336")
 			(effects
 				(font
@@ -9117,7 +9117,7 @@
 		(tags "VQFN NoLead")
 		(property "Reference" "U4"
 			(at 0 -3.83 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(hide yes)
 			(uuid "40d9f02c-6496-4a38-86e0-f9b72ac79b24")
 			(effects
@@ -9130,6 +9130,7 @@
 		(property "Value" "ATMEGA328P-MU"
 			(at 0 3.83 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b084a07a-ffe1-4fc6-bd4b-39fc4955f435")
 			(effects
 				(font
